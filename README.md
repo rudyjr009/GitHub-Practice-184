@@ -54,7 +54,7 @@
 | Vince Birch | VinceBirch| <https://vincebirch.github.io/GitHub-Assignment-1/>|
 | Funke Alliyu | oralliyu | <https://oralliyu.github.io/practice/> | 
 | Isaac Freeman | isaacfreeman38 | <https://isaacfreeman38.github.io/freemangithub1/> | 
-| Rudy Shiller | rudyjr009| <https://github.com/rudyjr009/Github-Assignment-1/>
+| Rudy Shiller | rudyjr009| <https://rudyjr009.github.io/Github-Assignment-1/>
 
 <br>
 
